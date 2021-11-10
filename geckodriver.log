@@ -938,3 +938,717 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0005,name=PHttpChannel::Msg_Redirect2Verify) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636369142341	Marionette	INFO	Stopped listening on port 49784
+1636380726457	geckodriver	INFO	Listening on 127.0.0.1:62937
+1636380729436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileCXvGsc"
+1636380730332	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileCXvGsc\\search.json.mozlz4", (void 0)))
+1636380734581	Marionette	INFO	Listening on port 62950
+1636380734805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636380745370	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1636381043048	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636382200361	Marionette	INFO	Stopped listening on port 62950
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofileOP5foj"
+1636381463952	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileOP5foj\\search.json.mozlz4", (void 0)))
+1636381467912	Marionette	INFO	Listening on port 55482
+1636381468040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636381481014	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://scripts.mediamathrdrt.com/scripts/k_betano.js, line 2: TypeError: items is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636382199819	Marionette	INFO	Stopped listening on port 55482
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636382203830	geckodriver	INFO	Listening on 127.0.0.1:56130
+1636382206854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofilelONbnV"
+1636382207705	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofilelONbnV\\search.json.mozlz4", (void 0)))
+1636382211580	Marionette	INFO	Listening on port 56140
+1636382211710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/index-3ecc49ca.js, line 1929: Error: Constructor for "cookies-policy-modal-footer#undefined" was not found
+JavaScript error: https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/index-3ecc49ca.js, line 1929: Error: Constructor for "cookies-policy-modal-tabs#undefined" was not found
+JavaScript error: https://scripts.mediamathrdrt.com/scripts/k_betano.js, line 2: TypeError: items is undefined
+1636382285874	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1636382301829	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636382662414	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636386556379	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636386746458	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636387202770	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1636387333244	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636387405073	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/index-3ecc49ca.js, line 1929: Error: Constructor for "cookies-policy#undefined" was not found
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636388132886	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1636388144642	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1636388208562	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636388301611	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636388392446	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636388419422	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636388613579	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+1636388624965	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+1636388892507	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636389918393	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636389995992	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636392903123	Marionette	INFO	Stopped listening on port 56140
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileOJShT4\\search.json.mozlz4", (void 0)))
+1636392625752	Marionette	INFO	Listening on port 51269
+1636392625868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+out of memory: 0x0000000000001000 bytes requested
+[GFX1-]: Receive IPC close with reason=AbnormalShu[GFXt1d-]: ownRe
+ceive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAA0026,name=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x960003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x960003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x360015,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAA0026,name=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x360015,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\leandro\AppData\Local\Temp\rust_mozprofileOJShT4\protections.sqlite
+1636392901945	Marionette	INFO	Stopped listening on port 51269
+essage] Error: Channel error: cannot send/recv
+
+[GFX1-]: DoesD3D11TextureSharingWork_ColorMismatch
+
+###!!! [Parent][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[GFX1-]: Fallback (SW-)WR to Basic
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x53000C,name=PGPU::Msg_UpdateVar) Channel error: cannot send/recv
+
+[GFX1-]: Failed to initialize GPU process
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x53000C,name=PGPU::Msg_UpdateVar) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x53001C,name=PGPU::Msg_ShutdownVR) Channel error: cannot send/recv
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileI5Nj9a\\search.json.mozlz4", (void 0)))
+1636392896609	Marionette	INFO	Listening on port 59041
+1636392897089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.infomoney.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.6.0, line 2: NS_ERROR_NOT_INITIALIZED: 
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1636393540590	geckodriver	INFO	Listening on 127.0.0.1:50613
+1636393543432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofile4KQ7WQ"
+1636393544598	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofile4KQ7WQ\\search.json.mozlz4", (void 0)))
+1636393550747	Marionette	INFO	Listening on port 50623
+1636393551170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+1636393574819	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+1636393629963	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1636393633726	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636396931760	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileOwHkuc\\search.json.mozlz4", (void 0)))
+1636397597499	Marionette	INFO	Listening on port 62625
+1636397597787	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-W28FFNP, line 338: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-W28FFNP, line 338: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+1636397835332	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 350: unreachable code after return statement
+1636397848140	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636397872643	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+1636401254368	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1e0b7781800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3507,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:372","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:310","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:414","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1725"]}] Barrier: profile-before-change
+[Parent 20520, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 20520, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 20520, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 20520, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2128: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1636405318306	Marionette	INFO	Stopped listening on port 62625
+1636405383487	geckodriver	INFO	Listening on 127.0.0.1:58383
+1636405386496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofilexqehXD"
+1636405387534	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofilexqehXD\\search.json.mozlz4", (void 0)))
+1636405391433	Marionette	INFO	Listening on port 58391
+1636405391610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=21bfbc9a000","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3507,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:372","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:310","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:414","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1725"]}] Barrier: profile-before-change
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2128: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1636405720119	Marionette	INFO	Stopped listening on port 58391
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636405725521	geckodriver	INFO	Listening on 127.0.0.1:58548
+1636405728564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileOGarpG"
+1636405729409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileOGarpG\\search.json.mozlz4", (void 0)))
+1636405733522	Marionette	INFO	Listening on port 58559
+1636405733911	Marionette	WARN	TLS certificate errors will be ignored for this session
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1bf87fd1800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3507,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:372","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:310","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:414","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1725"]}] Barrier: profile-before-change
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2128: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1636405935829	Marionette	INFO	Stopped listening on port 58559
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636454568529	geckodriver	INFO	Listening on 127.0.0.1:58930
+1636454571469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileIAY4ZI"
+1636454572886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileIAY4ZI\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1636454586108	Marionette	INFO	Listening on port 58939
+1636454586162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/cookiespolicy.js, line 116: Error: Error loading https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/environments-afb72dc4.system.js from https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/cookiespolicy.system.js
+JavaScript error: https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/cookiespolicy.js, line 116: Error: Error loading https://cdn.xpi.com.br/terms-policy/3.0.0/termspolicy/index-e205a272.system.js from https://cdn.xpi.com.br/terms-policy/3.0.0/termspolicy/termspolicy.system.js
+JavaScript error: https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/index-3ecc49ca.js, line 1929: Error: Constructor for "cookies-policy#undefined" was not found
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+1636456226082	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://scripts.mediamathrdrt.com/scripts/k_betano.js, line 2: TypeError: items is undefined
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: "Error sending event: display-change"
+console.error: ({})
+[Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://devtools/server/actors/inspector/event-collector.js :: getDOMListeners :: line 266"  data: no]: getDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:266:22
+getListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28
+hasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17
+hasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:802:21
+get _hasEventListeners@resource://devtools/server/actors/inspector/node.js:383:33
+form@resource://devtools/server/actors/inspector/node.js:207:7
+write@resource://devtools/shared/protocol/types.js:358:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:215:33
+write@resource://devtools/shared/protocol/types.js:215:16
+write@resource://devtools/shared/protocol/Request.js:109:22
+write@resource://devtools/shared/protocol/Request.js:39:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:598:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:314:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390144,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1636474746815	geckodriver	INFO	Listening on 127.0.0.1:63462
+1636474749855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileYtl1gL"
+1636474750971	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileYtl1gL\\search.json.mozlz4", (void 0)))
+1636474757485	Marionette	INFO	Listening on port 63471
+1636474757791	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://scripts.mediamathrdrt.com/scripts/k_betano.js, line 2: TypeError: items is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636480270598	Marionette	INFO	Stopped listening on port 63471
+1636480271135	geckodriver	INFO	Listening on 127.0.0.1:63905
+1636480274139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofile78pxrJ"
+1636480274928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofile78pxrJ\\search.json.mozlz4", (void 0)))
+1636480279153	Marionette	INFO	Listening on port 63917
+1636480279286	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636481491453	Marionette	INFO	Stopped listening on port 63917
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5046: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+EK"
+1636481475903	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofile4lg7EK\\search.json.mozlz4", (void 0)))
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+out of memory: 0x0000000000001000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+1636481801368	geckodriver	INFO	Listening on 127.0.0.1:55846
+1636481804392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileEnmT1B"
+1636481805313	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileEnmT1B\\search.json.mozlz4", (void 0)))
+1636481808981	Marionette	INFO	Listening on port 55856
+1636481809259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636482160474	Marionette	INFO	Stopped listening on port 55856
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileep0i3B"
+1636482150136	Marionette	INFO	Marionette enabled
+1636482158792	Marionette	INFO	Listening on port 56187
+1636482159327	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists,1636482162443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leand1636482170165	Marionette	INFO	Stopped listening on port 56187
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileiHJdzi\\search.json.mozlz4", (void 0)))
+1636482168412	Marionette	INFO	Listening on port 56248
+1636482168501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636482173821	Marionette	INFO	Stopped listening on port 56248
+1636482176287	geckodriver	INFO	Listening on 127.0.0.1:56290
+1636482179338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofilem7cAC5"
+1636482180386	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofilem7cAC5\\search.json.mozlz4", (void 0)))
+1636482184189	Marionette	INFO	Listening on port 56300
+1636482184408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636482199501	Marionette	INFO	Stopped listening on port 56300
+6482187530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofile0y0EZk"
+1636482188417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofile0y0EZk\\search.json.mozlz4", (void 0)))
+1636482192749	Marionette	INFO	Listening on port 56350
+1636482192927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636482198692	Marionette	INFO	Stopped listening on port 56350
+1636482202669	geckodriver	INFO	Listening on 127.0.0.1:56397
+1636482205715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofilebOehFZ"
+1636482206916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofilebOehFZ\\search.json.mozlz4", (void 0)))
+1636482211786	Marionette	INFO	Listening on port 56410
+1636482212318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636482227180	Marionette	INFO	Stopped listening on port 56410
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636482237941	geckodriver	INFO	Listening on 127.0.0.1:56466
+1636482241025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileTzJgBN"
+1636482242141	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileTzJgBN\\search.json.mozlz4", (void 0)))
+1636482246219	Marionette	INFO	Listening on port 56476
+1636482246640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636482258866	Marionette	INFO	Stopped listening on port 56476
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636482991669	geckodriver	INFO	Listening on 127.0.0.1:57161
+1636482994727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofilerHqu4R"
+1636482995574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofilerHqu4R\\search.json.mozlz4", (void 0)))
+1636483000004	Marionette	INFO	Listening on port 57171
+1636483000054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1636483028164	Marionette	INFO	Stopped listening on port 57171
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+al\\Temp\\rust_mozprofileETJpeB"
+*** You are running in headless mode.
+1636483004587	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileETJpeB\\search.json.mozlz4", (void 0)))
+1636483008314	Marionette	INFO	Listening on port 57221
+1636483008656	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+--headless" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileVqOEWt"
+*** You are running in headless mode.
+1636483047993	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileVqOEWt\\search.json.mozlz4", (void 0)))
+1636483050745	Marionette	INFO	Listening on port 57298
+1636483051207	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+rofile1qxn8R"
+*** You are running in headless mode.
+1636483070980	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofile1qxn8R\\search.json.mozlz4", (void 0)))
+1636483073841	Marionette	INFO	Listening on port 57363
+1636483074048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+1636488221676	geckodriver	INFO	Listening on 127.0.0.1:63256
+1636488224730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileJDicg7"
+*** You are running in headless mode.
+1636488225626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileJDicg7\\search.json.mozlz4", (void 0)))
+1636488228387	Marionette	INFO	Listening on port 63267
+1636488228459	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+AppData\\Local\\Temp\\rust_mozprofileAkaUBZ"
+*** You are running in headless mode.
+1636488248057	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileAkaUBZ\\search.json.mozlz4", (void 0)))
+1636488250817	Marionette	INFO	Listening on port 63341
+1636488251010	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/cookiespolicy.js, line 116: Error: Error loading https://cdn.xpi.com.br/terms-policy/3.0.0/termspolicy/index-4fd21a9c.system.js from https://cdn.xpi.com.br/terms-policy/3.0.0/termspolicy/termspolicy.system.js
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/cookiespolicy.js, line 116: Error: Error loading https://cdn.xpi.com.br/terms-policy/3.0.0/termspolicy/environments-afb72dc4.system.js from https://cdn.xpi.com.br/terms-policy/3.0.0/termspolicy/termspolicy.system.js
+JavaScript error: https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/index-3ecc49ca.js, line 1929: Error: Constructor for "cookies-policy#undefined" was not found
+JavaScript error: https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/index-3ecc49ca.js, line 1929: Error: Constructor for "cookies-policy#undefined" was not found
+JavaScript error: https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/index-3ecc49ca.js, line 1929: Error: Constructor for "cookies-policy#undefined" was not found
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+[Parent 18216, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1636539309766	geckodriver	INFO	Listening on 127.0.0.1:54887
+1636539312788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileVceScp"
+*** You are running in headless mode.
+1636539314033	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileVceScp\\search.json.mozlz4", (void 0)))
+1636539316959	Marionette	INFO	Listening on port 54896
+1636539317116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/cookiespolicy.js, line 116: Error: Error loading https://cdn.xpi.com.br/terms-policy/3.0.0/termspolicy/termspolicy.system.js
+JavaScript error: https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/index-3ecc49ca.js, line 1929: Error: Constructor for "cookies-policy#undefined" was not found
+JavaScript error: https://cdn.xpi.com.br/cookies-policy/3.0.0/cookiespolicy/cookiespolicy.js, line 116: Error: Error loading https://cdn.xpi.com.br/terms-policy/3.0.0/termspolicy/termspolicy.system.js
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+1636549371208	geckodriver	INFO	Listening on 127.0.0.1:53885
+1636549374261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileIcuEIN"
+*** You are running in headless mode.
+1636549375093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leandro\\AppData\\Local\\Temp\\rust_mozprofileIcuEIN\\search.json.mozlz4", (void 0)))
+1636549378118	Marionette	INFO	Listening on port 53897
+1636549378541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636549386286	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null
+JavaScript error: https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.3/_inc/build/infinite-scroll/infinity.min.js?ver=10.3-is5.0.1, line 3: TypeError: this.element is null

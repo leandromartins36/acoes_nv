@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pandas = "*"
 selenium = "==4.0.0"
+ipykernel = "*"
 
 [dev-packages]
 
