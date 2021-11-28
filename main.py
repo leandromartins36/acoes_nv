@@ -66,7 +66,7 @@ while (contador < len(empresas_df)):
 
 
 # %%
-
+# 
 url_cxco11 = "https://www.infomoney.com.br/cotacoes/fundos-imobiliarios-cxco11/"
 Empresa_cx = ''
 navegador.get(url_cxco11)
@@ -82,8 +82,7 @@ cx_data_df = pd.DataFrame(tabelaResul[0])
 cx_data_df['DATA']
 
 cxco11_list1 = pd.Series(cx_data_df['DATA'])
-cxco11_list2 = pd.Series(
-    float(cx_fechamento_bs.text.replace(",", ".")), name='FECHAMENTO')
+cxco11_list2 = pd.Series(float(cx_fechamento_bs.text.replace(",", ".")), name='FECHAMENTO')
 cxco11_list3 = pd.Series(cx_sigla.text, name='EMPRESA')
 
 df_cxco11 = pd.concat([cxco11_list1, cxco11_list2, cxco11_list3], axis=1)
